@@ -1,6 +1,5 @@
 {
-  "name": "Food Ninja",
-  "short_name": "FoodNinja",
+  "name": "pwa-food-app",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#FFE9D2",

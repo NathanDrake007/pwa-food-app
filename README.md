@@ -1,2 +1,5 @@
+# 🎉🎉🎉 COMPLETED 🎉🎉🎉
+
 # pwa-food-app
- A simple Progressive web app
+
+A simple Progressive web app
